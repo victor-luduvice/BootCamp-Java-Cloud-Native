@@ -18,8 +18,11 @@ public class Repeticao {
         }
     }
 
-   */
+    public static void main(String[] args) {
+}
 
+   */
+//==========================================================//
                  // For em Arrays
     /*
 
@@ -32,9 +35,32 @@ public class Repeticao {
     }
 
      */
+ //===========================================================//
+                   // Foreach
+     /*
 
+    String nomes []  = {"victor", "lara", "davi"};
 
+  for (String nome : nomes) {
+      System.out.println(nome);
+  }
+   */
+         //While e Do While
 
+   /*
+    public static void main(String[] args) {
+        int num = 0;
+        while(num <= 10){
+            System.out.println("o numero atual é: " + num);
+            num++;
+        }
+    }
 
+    do{
+        System.out.println("o numero atual é :" + num);
+        num++;
+    } while (num <= 10);
+
+    */
 
 }
