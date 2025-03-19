@@ -27,10 +27,10 @@ public class Repeticao {
     /*
 
     public static void main(String[] args) {
-        String[] alunos = {"Victor", "João", "Lara", "Davi"};
+        String[] condicionais.alunos = {"Victor", "João", "Lara", "Davi"};
 
-        for (int x = 0; x < alunos.length; x++) {
-            System.out.println("O aluno no índice x = " + x + " é " + alunos[x]);
+        for (int x = 0; x < condicionais.alunos.length; x++) {
+            System.out.println("O aluno no índice x = " + x + " é " + condicionais.alunos[x]);
         }
     }
 
