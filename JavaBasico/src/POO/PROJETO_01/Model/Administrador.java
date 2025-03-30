@@ -2,7 +2,7 @@ package POO.PROJETO_01.Model;
 
 public class Administrador extends Usuario {
     public Administrador(String nome, String matricula) {
-        super(nome, matricula);
+        super(nome);
     }
 
     @Override
